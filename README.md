@@ -1,7 +1,7 @@
 # Hi there, I'm Efe! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FAC918&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sefepolat/)
