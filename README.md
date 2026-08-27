@@ -1,4 +1,4 @@
-# Hi there, I'm Efe! 👋
+# Efe Polat — AI Engineer in the Making
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FAC918&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
@@ -9,6 +9,12 @@ I'm a **Computer Engineering student** passionate about building robust applicat
 
 - 🔭 Currently exploring: LLM Architectures, RAG Systems & Agentic Workflows
 - 🌟 Open to collaborating on innovative AI/ML and software engineering projects!
+
+---
+
+### 🎓 Education
+- 📍 **Computer Engineering** — [Eskisehir Osmangazi University] (2023 – Present)
+- 📜 Certified in ML, DL & Cloud technologies — [View on LinkedIn →](https://www.linkedin.com/in/sefepolat/details/certifications/)
 
 ---
 
@@ -25,15 +31,22 @@ Here are some of the projects I've worked on:
 
 ---
 
-### 🌟 Open to Collaboration!
-Always eager to collaborate on innovative AI & software engineering projects!
-
----
-
 ### 🛠️ Skills
-- **Languages**: Python, C, C++, C#
-- **AI / ML / Data Science**: PyTorch, TensorFlow, Explainable AI, OpenCV, RAG, Federated Learning
-- **Web / Backend & Tools**: FastAPI, Streamlit, Docker, ChromaDB, Git, Linux
+
+**Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs" />
+</p>
+
+**AI / ML / Data Science**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+**Web / Backend & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,git,linux" />
+</p>
 
 ---
 
@@ -52,5 +65,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sefepolat
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sefepolat/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=sefepolat&color=FAC918&style=for-the-badge&label=VISITORS" alt="Visitor Counter" />
+  <a href="https://www.linkedin.com/in/sefepolat/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ce.sefepolat@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@sefepolat"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=sefepolat&color=FAC918&style=for-the-badge&label=VISITORS" alt="Visitor Counter" />
 </p>
