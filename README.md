@@ -39,4 +39,4 @@ I enjoy listening to and singing different types of music and also playing video
 ---
 
 ### 📫 Get in Touch
-Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sefepolat) to discuss projects, collaborations, or just to say hi!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sefepolat) to discuss projects, collaborations, or just to say hi!
