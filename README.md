@@ -52,9 +52,5 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sefepolat
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sefepolat/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=sefepolat&color=FAC918&style=for-the-badge&label=VISITORS" alt="Visitor Counter" />
+  <a href="https://www.linkedin.com/in/sefepolat/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=sefepolat&color=FAC918&style=for-the-badge&label=VISITORS" alt="Visitor Counter" />
 </p>
