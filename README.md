@@ -33,8 +33,12 @@ Always eager to collaborate on innovative AI & software engineering projects!
 
 ---
 
-### 🎵 Hobbies
-I enjoy listening to and singing different types of music and also playing video games.
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sefepolat&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Efe's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefepolat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
 
 ---
 
