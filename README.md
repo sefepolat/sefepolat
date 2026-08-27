@@ -13,20 +13,19 @@ I'm a **Computer Engineering student** passionate about building robust applicat
 ---
 
 ### 🎓 Education
-- 📍 **Computer Engineering** — [Eskisehir Osmangazi University] (2023 – Present)
+- 📍 **Computer Engineering** — Eskisehir Osmangazi University (2023 – Present)
 - 📜 Certified in ML, DL & Cloud technologies — [View on LinkedIn →](https://www.linkedin.com/in/sefepolat/details/certifications/)
 
 ---
 
 ### 🚀 Projects
-Here are some of the projects I've worked on:
-- [**Federated Learning-Based LSTM for Vehicle SoC Prediction**](https://github.com/ercodex/Federated-Learning-Based-LSTM-for-Vehicle-SoC-Prediction): An LSTM-based AI model trained via a privacy-preserving Federated Learning approach to accurately predict the State of Charge (SoC) of vehicle batteries.
+- [**Federated Learning LSTM for Vehicle SoC Prediction**](https://github.com/ercodex/Federated-Learning-Based-LSTM-for-Vehicle-SoC-Prediction): Privacy-preserving battery State of Charge prediction using Federated Learning.
   `Python` `Deep Learning` `Federated Learning` `LSTM`
-- [**RAG & LLM-Assisted Explainable Diabetes Clinical Decision Support System**](https://github.com/sefepolat/Diabetes-CDSS---RAG-LLM-Assisted-Explainable-Diabetes-Clinical-Decision-Support-System): Clinical Decision Support System for diabetes risk prediction using XGBoost, SHAP/LIME explainability, RAG-powered LLM reporting (Ollama/ChromaDB), FastAPI, and Streamlit. Fully containerized with Docker.
+- [**RAG & LLM-Assisted Diabetes Clinical Decision Support System**](https://github.com/sefepolat/Diabetes-CDSS---RAG-LLM-Assisted-Explainable-Diabetes-Clinical-Decision-Support-System): Explainable diabetes risk prediction with RAG-powered LLM reporting, fully containerized.
   `FastAPI` `Streamlit` `Docker` `ChromaDB` `Ollama` `XGBoost` `SHAP/LIME`
-- [**IPCI - Image Processing Chat Interface**](https://github.com/sefepolat/IPCI---Image-Processing-Chat-Interface): A real-time, voice-controlled image and video processing assistant powered by Whisper, local LLM (LLaMA 3.1 via Ollama), and OpenCV for interactive spatial and frequency-domain computer vision operations.
+- [**IPCI - Image Processing Chat Interface**](https://github.com/sefepolat/IPCI---Image-Processing-Chat-Interface): Voice-controlled real-time image & video processing assistant using Whisper and local LLMs.
   `OpenCV` `Whisper` `LLaMA 3.1` `Ollama` `Python`
-- [**Abalone AI Agent**](https://github.com/sefepolat/Abalone-AI-Agent---SUEFPO-OMOZ-Int2AI-Project): An intelligent Abalone board game built with Python and Pygame. Features multiple AI algorithms (Greedy, ID Minimax, Alpha-Beta Pruning with Transposition Tables, Quiescence Search) and an interactive GUI.
+- [**Abalone AI Agent**](https://github.com/sefepolat/Abalone-AI-Agent---SUEFPO-OMOZ-Int2AI-Project): Abalone board game with multiple AI strategies including Alpha-Beta Pruning and Quiescence Search.
   `Python` `Pygame` `Minimax` `Alpha-Beta Pruning`
 
 ---
@@ -67,6 +66,6 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sefepolat
 <p align="center">
   <a href="https://www.linkedin.com/in/sefepolat/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:ce.sefepolat@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@sefepolat"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@sefepolat"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="48" /></a>&nbsp;&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=sefepolat&color=FAC918&style=for-the-badge&label=VISITORS" alt="Visitor Counter" />
 </p>
