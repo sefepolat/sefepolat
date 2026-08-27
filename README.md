@@ -1,5 +1,7 @@
 # Hi there, I'm Efe! 👋
 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sefepolat/)
+
 ### 💻 About Me
 I'm a **Computer Engineering student** passionate about building robust applications and solving complex problems with AI. My primary focus is on **Machine Learning, Deep Learning, and Large Language Models (LLMs)**.
 
