@@ -8,9 +8,9 @@ I'm a Computer Engineering student with a passion for building applications and 
 ### 🚀 Projects
 Here are some of the projects I've worked on:
 - **Federated Learning-Based LSTM for Vehicle SoC Prediction**: An LSTM-based AI model trained via a privacy-preserving Federated Learning approach to accurately predict the State of Charge (SoC) of vehicle batteries.
-- **Deep Learning-Based Fish Species Identification (TensorFlow/Keras)**: Development and performance analysis of a customized Deep Learning (TensorFlow/Keras) neural network model to accurately classify fish species using a large-scale image dataset.
-- **Quiz App**: A fun and interactive quiz application built with Flutter, featuring multiple question types and score tracking.
-- **Expense Tracker**: A Flutter-based app to track your expenses and manage your budget effectively.
+- **RAG & LLM-Assisted Explainabl Diabetes Clinical Decision Support System**: Clinical Decision Support System for diabetes risk prediction using XGBoost, SHAP/LIME explainability, RAG-powered LLM reporting (Ollama/ChromaDB), FastAPI, and Streamlit. Fully containerized with Docker.
+- **IPCI - Image Processing Chat Interface**: A real-time, voice-controlled image and video processing assistant powered by Whisper, local LLM (LLaMA 3.1 via Ollama), and OpenCV for interactive spatial and frequency-domain computer vision operations.
+- **Abalone AI Agent**: An intelligent Abalone board game built with Python and Pygame. Features multiple AI algorithms (Greedy, ID Minimax, Alpha-Beta Pruning with Transposition Tables, Quiescence Search) and an interactive GUI.
 
 ---
 
@@ -20,8 +20,8 @@ I'm currently not actively working on any projects, but **I'm always open to col
 ---
 
 ### 🛠️ Skills
-- **Languages**: C, C++, Python, C#, Flutter
-- **Technologies**: Machine Learning, Deep Learning, Mobile App Development, Object-Oriented Programming
+- **Languages**: C, C++, C#, Python
+- **Technologies**: Machine Learning, Deep Learning, Large Language Models, Object-Oriented Programming
 
 ---
 
@@ -36,6 +36,6 @@ Feel free to connect with me on [LinkedIn](your-linkedin-url) to discuss project
 
 
 <!---
-Xepond/Xepond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sefepolat/sefepolat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
