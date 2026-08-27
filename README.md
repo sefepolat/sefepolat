@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FAC918&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sefepolat/)
-
 ### 💻 About Me
 I'm a **Computer Engineering student** passionate about building robust applications and solving complex problems with AI. My primary focus is on **Machine Learning, Deep Learning, and Large Language Models (LLMs)**.
 
@@ -54,5 +52,9 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sefepolat
 <br>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/sefepolat/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=sefepolat&color=FAC918&style=for-the-badge&label=VISITORS" alt="Visitor Counter" />
 </p>
