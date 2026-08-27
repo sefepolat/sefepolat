@@ -10,7 +10,7 @@ I'm a **Computer Engineering student** passionate about building robust applicat
 
 ### 🚀 Projects
 Here are some of the projects I've worked on:
-- [**Federated Learning-Based LSTM...**](https://github.com/ercodex/Federated-Learning-Based-LSTM-for-Vehicle-SoC-Prediction): An LSTM-based AI model trained via a privacy-preserving Federated Learning approach to accurately predict the State of Charge (SoC) of vehicle batteries.
+- [**Federated Learning-Based LSTM for Vehicle SoC Prediction**](https://github.com/ercodex/Federated-Learning-Based-LSTM-for-Vehicle-SoC-Prediction): An LSTM-based AI model trained via a privacy-preserving Federated Learning approach to accurately predict the State of Charge (SoC) of vehicle batteries.
   `Python` `Deep Learning` `Federated Learning` `LSTM`
 - [**RAG & LLM-Assisted Explainable Diabetes Clinical Decision Support System**](https://github.com/sefepolat/Diabetes-CDSS---RAG-LLM-Assisted-Explainable-Diabetes-Clinical-Decision-Support-System): Clinical Decision Support System for diabetes risk prediction using XGBoost, SHAP/LIME explainability, RAG-powered LLM reporting (Ollama/ChromaDB), FastAPI, and Streamlit. Fully containerized with Docker.
   `FastAPI` `Streamlit` `Docker` `ChromaDB` `Ollama` `XGBoost` `SHAP/LIME`
