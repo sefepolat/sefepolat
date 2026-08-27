@@ -1,4 +1,4 @@
-# Efe Polat — AI Engineer in the Making
+# Süleyman Efe Polat — AI Engineer in the Making
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FAC918&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
