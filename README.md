@@ -14,7 +14,7 @@ I'm a **Computer Engineering student** passionate about building robust applicat
 
 ### 🎓 Education
 - 📍 **Computer Engineering** — Eskisehir Osmangazi University (2023 – Present)
-- 📜 Certified in ML, DL & Cloud technologies — [View on LinkedIn →](https://www.linkedin.com/in/sefepolat/details/certifications/)
+- 📜 Certified in ML, DL, LLMs — [View on LinkedIn →](https://www.linkedin.com/in/sefepolat/details/certifications/)
 
 ---
 
